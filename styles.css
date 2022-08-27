@@ -1,0 +1,29 @@
+.love{
+width: 200px;
+height: 200px;
+
+}
+
+.box-blue{
+    color: azure;
+    background-color: blue;
+}
+
+.box-red{
+    color: black;
+    background-color: red;
+}
+
+.box-green{
+    color: darkred;
+    background-color: green;}
+
+.box-purple{
+    color: white;
+    background-color: purple;
+}
+
+.box-yellow{
+    color: red;
+    background-color: yellow;
+}
